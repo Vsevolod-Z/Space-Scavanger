@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="Rotatator" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAQAAICAAACAAQAAACAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\DownloadContent\#OnePotatoKingdom_FULL\Bonus_Assets\Rotation_Script\Rotatator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LookCamera" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAADAAAAAAAAAQAQAAAAABAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\DownloadContent\Starfield Skybox\Demo\Script\LookCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroid" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAACQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Asteroid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoundsCheck" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAICAAAAAAQBAAAIAQAAAQAAAAAAAAAAAQAAEA=</HashCode>
+      <FileName>Assets\Scripts\BoundsCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBank" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DataBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAAAAiAIAAAAIgAAAAAAAAIAAAAAQgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FPScounter" Collapsed="true">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAQAAAAAAAAAEAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FPScounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAECgAAAAAAAAAAAAEAEBAAAwAAAAAAIAAAgg=</HashCode>
+      <FileName>Assets\Scripts\HealthController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Instantiator" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Instantiator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUQBgABFCAgqAAAgAICAAEAACAQCAggAEAAAAYAUCA=</HashCode>
+      <FileName>Assets\Scripts\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAABAAAAAAAIAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuAnimation" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgBAAiABAQAAAAAABAAEgAAAAQAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MenuAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MessageCreator" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIAQA=</HashCode>
+      <FileName>Assets\Scripts\MessageCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyNavigator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgABAAAAAAAAAAAAAAAQAIAAQAAAAAoE=</HashCode>
+      <FileName>Assets\Scripts\Navigation\EnemyNavigator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PlayerNavigator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QARCAAAAEGAAACAEEACAAgAQAggAgAACCAAQACgEAAE=</HashCode>
+      <FileName>Assets\Scripts\Navigation\PlayerNavigator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Navigator" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Navigator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlanetRotator" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlanetRotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAgAEIAiAABAAgiAAgAAAAAACAAYAAACCAAALAAAE=</HashCode>
+      <FileName>Assets\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHealthController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAIACgACAAAAQIAAAAEAAAAAAABAAAAAIAAASg=</HashCode>
+      <FileName>Assets\Scripts\PlayerHealthController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RandomRotator" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAAAAAAAAAACAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RandomRotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RenderChangerAsteroids" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAgIAAAAAIAAAABAAFAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Renders\RenderChangerAsteroids.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RenderChangerEnemies" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACCAAAAAAAIAIBAAAAoAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Renders\RenderChangerEnemies.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RenderChangerStations" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAAAAAAAAIAAAAAIAIAABAgAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Renders\RenderChangerStations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scavenger" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAEAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Scavenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidsSpawner" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAEACAQAAAAAAAgAAAAAAAAggCAAQECAQARAAA=</HashCode>
+      <FileName>Assets\Scripts\Spawners\AsteroidsSpawner.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EnemiesSpawner" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAABAEACABAAAAIAAAAAAAAAAAAAABAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Spawners\EnemiesSpawner.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PlayerSpawner" Collapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAEACAAAAAAAAAAAAgAAAAAAAAhAAAAACAAgAA=</HashCode>
+      <FileName>Assets\Scripts\Spawners\PlayerSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Station" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAQAAAIAAcAIAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradeSystem" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABUAIgKhECiAAAAIEQIAoChAEAAoAIDAEkIEASAEREA=</HashCode>
+      <FileName>Assets\Scripts\TradeSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyRocketWeapon" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAAAAKAAAAAQAAAABBAYAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapon\EnemyRocketWeapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HeroRocketWeapon" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAAACAAAAAAAAAAABAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapon\HeroRocketWeapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LaserWeapon" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAgAAAAAAgAAAIABAAAIAABAAAAARAAEA=</HashCode>
+      <FileName>Assets\Scripts\Weapon\LaserWeapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Rocket" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAACAAiBAgAAAAAAAAAAAAAAAAAAJAAACAQIEAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapon\Rocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DropdownSample" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAQAAAAAAIIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPro.Examples.CameraController" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAEAAEADAEBEAgAIQAIEABAAAFgYQQACAAAAAAIEA=</HashCode>
+      <FileName>Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPro.Examples.ObjectSpin" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAEAIAAAAAAAAAAAAQAAAEABAIAgAAAAAAQBAAEA=</HashCode>
+      <FileName>Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPro.Examples.ShaderPropAnimator" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAAAAAAAAgAEAAAAAAAAAAAAAAAQAgAEA=</HashCode>
+      <FileName>Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPro.Examples.SimpleScript" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAAAAAAAEAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="11.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="IHealthController" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interfaces\IHealthController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="INavigator" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Interfaces\INavigator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IRenderer" Collapsed="true">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interfaces\IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ISpawner" Collapsed="true">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interfaces\ISpawner.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IWeapon" Collapsed="true">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interfaces\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

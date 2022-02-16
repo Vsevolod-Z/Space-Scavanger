@@ -9,6 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Assets/DownloadContent/
+/Assets/_DesertKits64_Sample/
+/Assets/Materials/
+/Game/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -46,11 +50,16 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.rar
 
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.fbx
+*.png
+*.jpg
+*.jpeg
 
 # Unity3D generated file on crash reports
 sysinfo.txt
